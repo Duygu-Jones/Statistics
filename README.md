@@ -1,4 +1,4 @@
-# Statistics 
+# Statistics Lecture Notes
 
 This repository contains various statistical analyses, examples, and notes. It serves as a resource for learning and applying statistical methods and concepts.
 
