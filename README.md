@@ -33,7 +33,7 @@ The aim of this repository is to provide practical examples, detailed notes, and
 
 ## 🤝Contributing
 
-Contributions are welcome! If you have any improvements, suggestions, or additional datasets and EDA projects to share, please fork the repository and create a pull request.
+Contributions are welcome! If you have any improvements, suggestions, or additional information to share, please fork the repository and create a pull request.
 
 <br>
 
