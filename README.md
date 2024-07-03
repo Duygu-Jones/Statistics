@@ -31,29 +31,41 @@ The aim of this repository is to provide practical examples, detailed notes, and
 2. Browse the folders to find the relevant analyses, notes, and tutorials.
 3. Follow the instructions within each file to understand and apply the statistical methods.
 
-## Contributing
+## 🤝Contributing
 
-Contributions are welcome! If you have any analyses, notes, or improvements to share, please follow these steps:
+Contributions are welcome! If you have any improvements, suggestions, or additional information to share, please fork the repository and create a pull request.
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add new content'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Open a pull request.
+<br>
 
-## About Me
+## 🌱About Me 
 
-Hi, I'm Duygu Jones, a Data Scientist passionate about statistics and data analysis. You can find more about me and my work through the following links:
+I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis, and machine learning. 
 
-- **Website**: [duygujones.vercel.app](https://duygujones.vercel.app/)
-- **LinkedIn**: [linkedin.com/in/duygujones](https://www.linkedin.com/in/duygujones/)
+♻️ You can find more about me and my work through the following links:
+
+- **Linedin**: [Linkedin/duygujones](https://www.linkedin.com/in/duygujones/)
+- **Website**: [duygujones.com](https://duygujones.vercel.app/)
+- **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
 - **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
+- **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
+- **Tableau Public**: [Duygu Jones on Tableau Public](https://public.tableau.com/app/profile/duygu.jones/vizzes)
 
-Feel free to connect with me!
+🌐Feel free to connect with me!
 
-## License
+<br>
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+🎯 Boost your exploratory data analysis skills,<br>
+💡 Share your insights with the community,<br>
+✨ If you find this repository helpful, don't forget to give it a ⭐ star.<br>
+
+Code with joy! 👩‍💻✨
+
+---
+
+
+
+##### 📜 License
+
+##### This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
  
